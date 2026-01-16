@@ -16,7 +16,7 @@ Output:
 - Compound
 Output Dimension: 5
 Output Consistency: Fixed
-Interpretation: 'The model outputs representations at multiple chemical abstraction levels: the canonical SMILES encodes the full molecule, the standardized SMILES corresponds to the ChEMBL-cleaned parent structure, the flattened SMILES removes stereochemistry, the Murcko scaffold captures the core ring–linker framework, and the generic scaffold further generalizes this framework by removing atom identities.'
+Interpretation: 'The model outputs representations at multiple chemical abstraction levels for a given molecule.'
 Tag:
 - Compound generation
 Biomedical Area:
