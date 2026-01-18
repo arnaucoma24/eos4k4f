@@ -2,7 +2,7 @@ Identifier: eos4k4f
 Slug: standardization
 Status: In progress
 Title: Small molecule standardization
-Description: Systematic standardization of small molecules with Canonical SMILES, ChEMBL-cleaned and standardized SMILES, flattened SMILES (no stereochemistry), Murcko scaffold and generic scaffold. 
+Description: The model outputs molecular representations at increasing levels of chemical abstraction, ranging from the full canonical structure to a ChEMBL-standardized parent, a stereochemistry-free form, the core Murcko scaffold, and a generic scaffold that removes atom-specific identities. 
 Deployment:
 - Local
 Source: Local
